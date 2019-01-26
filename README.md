@@ -5,8 +5,9 @@ showing how to use Git and Github together.
 
 ## Introduction
 
-## Purpos
-Sample website with plenty of files for demos
+## Purpose
+As Stated above, the main purpose is to provide simple
+examples for Git training demos.
 
 ## Deployment
 
